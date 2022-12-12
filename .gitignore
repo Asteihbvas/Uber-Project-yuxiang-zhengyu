@@ -1,5 +1,5 @@
-git rm -rf --cached .
-git add .
+git rm -rf --cached Uber-Project-yuxiang-zhenyu/data
+git add Uber-Project-yuxiang-zhenyu/data
 __pycache__
 .ipynb_checkpoints
 .idea
